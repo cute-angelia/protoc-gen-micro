@@ -147,7 +147,7 @@ github.com/golang/gddo v0.0.0-20181116215533-9bd4a3295021/go.mod h1:xEhNfoBDX1hz
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b h1:VKtxabqXZkF25pY9ekfRL6a582T4P37/31XEstQ5p58=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
-github.com/golang/lint v0.0.0-20190227174305-8f45f776aaf1/go.mod h1:tluoj9z5200jBnyusfRPU2LqT6J+DAorxEvtC7LHB+E=
+github.com/golang/lint v0.0.0-20180702182130-06c8688daad7/go.mod h1:tluoj9z5200jBnyusfRPU2LqT6J+DAorxEvtC7LHB+E=
 github.com/golang/mock v1.1.1/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
 github.com/golang/mock v1.2.0/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
@@ -322,11 +322,13 @@ github.com/micro/go-micro v0.26.0/go.mod h1:CweCFO/pq8dCSIOdzVZ4ooIpUrKlyJ0AcFB2
 github.com/micro/go-micro v0.26.1/go.mod h1:Jgc5gPEmDiG1TWE5Qnzzx5qyXnU9VTXKT1FkXkfvt8g=
 github.com/micro/go-micro v1.0.0 h1:mg5/BfG4O6LHm+BlzNSaKBVxm/nVg0hJ4t7ziNDhipM=
 github.com/micro/go-micro v1.0.0/go.mod h1:DnwIb4pb7podyAgAF8HYMlDkV5sjtcIj9wW4Iq+JyIk=
+github.com/micro/go-micro v1.1.0 h1:xN2771unLL7YUpISsPtp5Bcw6/upodBB+EdFEMrX/64=
 github.com/micro/go-micro v1.1.0/go.mod h1:DcjZ4Gqfq3WQbWaRJOorwSzmEdvV/sSW9lYpM5m7QgQ=
 github.com/micro/go-rcache v0.1.0/go.mod h1:INzyZjXO5M+PmN2A33YxD4TaOY61xjFIM4CfSHv+At8=
 github.com/micro/go-rcache v0.2.0/go.mod h1:EoiTwbY2ubQ6lc3ScV+SnmKbelDzeFezDxPDvF8XDxw=
 github.com/micro/go-rcache v0.2.1 h1:hx24BZuhW4UVCyLE8p6fDrUetXrYDlOYSn5DSmqcjms=
 github.com/micro/go-rcache v0.2.1/go.mod h1:aPCNY3RbjBdyd6ShLENl4MDSgpAiWIU4LyNLE9+TOEo=
+github.com/micro/go-rcache v0.3.0 h1:KmJI80XnLNOB11U+hahQMMHBZLnZjf/oA4DB6FdEbSU=
 github.com/micro/go-rcache v0.3.0/go.mod h1:M5zEP6UW8YfsaHHyFdcgTzgIshTPNqMKw38Mwc+ht4g=
 github.com/micro/h2c v1.0.0/go.mod h1:54sOOQW/GRlHhH43vKwOhUb+kHaXhVxR0d3CJhn9alE=
 github.com/micro/mdns v0.0.0-20181201230301-9c3770d4057a/go.mod h1:SQG6o/94RinohLuB5noHSevg2Iqg2wXLDUn4lj2LWWo=
