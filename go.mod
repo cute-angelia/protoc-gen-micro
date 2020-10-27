@@ -1,4 +1,4 @@
-module github.com/micro/protoc-gen-micro
+module github.com/cute-angelia/protoc-gen-micro
 
 require (
 	github.com/golang/protobuf v1.3.3
